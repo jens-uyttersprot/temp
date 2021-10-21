@@ -1,4 +1,4 @@
-[
+
   {
     "name": "v1alpha1",
     "schema": {
@@ -375,4 +375,3 @@
     "served": true,
     "storage": true
   }
-]
